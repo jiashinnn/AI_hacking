@@ -1,1 +1,1 @@
-# Crucible_HackAI_solutions
+# Crucible AI CTF - Solutions
